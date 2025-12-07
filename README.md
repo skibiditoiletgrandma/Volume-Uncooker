@@ -33,3 +33,5 @@ HOW TO INSTALL:
 4. Regenerate Project Files by right-clicking your uproject file and selecting "Generate Visual Studio Project Files"
 5. Open the .sln and rebuild your project.
 DONE
+
+note: the tool was coded by ai but it still works haha we dont have money to pay someone to make it
