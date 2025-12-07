@@ -25,3 +25,11 @@ Supported:
 ✅Post Process Volume
 
 ✅Audio Volumes
+
+HOW TO INSTALL:
+1. Download the latest release and then uncompress it.
+2. Copy the uncompressed folder and paste it into your project's "Plugin" folder.
+3. Delete your "Binaries", ".vs", and "Intermediate" folders. Delete your project's sln.
+4. Regenerate Project Files by right-clicking your uproject file and selecting "Generate Visual Studio Project Files"
+5. Open the .sln and rebuild your project.
+DONE
