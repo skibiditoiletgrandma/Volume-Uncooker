@@ -1,5 +1,5 @@
 # Volume-Uncooker
-A tool made for uncooking volumes in the editor. This was made for modding fnaf9 in Unreal Engine 4.27.2.
+A tool made for uncooking common volumes in the editor. This was made for modding fnaf9 in Unreal Engine 4.27.2.
 
 How It Works As Simply As Possible: 
 It copies data from volumes that were selected by the user, and then makes brand new volumes and imports the data correctly and automatically.
@@ -19,3 +19,7 @@ Supported:
 ✅Nav Modifiers Volumes
 
 ✅Pre-computed Visibility Volumes
+
+✅Post Process Volume
+
+✅Audio Volumes
