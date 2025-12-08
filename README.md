@@ -4,9 +4,13 @@ A tool made for uncooking common volumes in the editor. This was made for moddin
 How It Works As Simply As Possible: 
 It copies data from volumes that were selected by the user, and then makes brand new volumes and imports the data correctly and automatically.
 
-Supported:
+Extra Features:
 
 ✅Pasting Volumes In Their Original Maps (you can unselect this so you can paste all the volumes in another map)
+
+✅Auto-Delete Old Cooked Volumes (you can unselect this if you to keep the cooked volumes)
+
+VOLUMES SUPPORTED:
 
 ✅Akreverb Volumes
 
